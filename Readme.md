@@ -28,7 +28,7 @@ I applied the concepts of In-Memory MongoDB by using Mocha, Chai and Mongodb mem
 
 Link - https://github.com/PiyushB752/Zolvit_Day-4
 
-### Day 5 - Testing with In-Memory MongoDB - 
+### Day 5 - Test Coverage and Reporting - 
 On day 5, I learnt about what is test coverage and how much it is an important element while testing various test cases. Also I have learnt how to get the coverage of all the test cases using c8 package. 
 
 I applied the concepts of test coverage using c8 Package. I have took the Day 1 project and implemented the test coverage package into the project. Next we return the coverage terminal line and we the overall reports of the working test cases. In this way, we can identify which all test cases are working properly and also have a check over various functionalities.
